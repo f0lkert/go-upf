@@ -7,7 +7,7 @@ import (
 	"github.com/wmnsk/go-pfcp/ie"
 
 	"github.com/free5gc/go-gtp5gnl"
-	"github.com/free5gc/go-upf/internal/report"
+	"github.com/f0lkert/go-upf/internal/report"
 )
 
 // OpType represents the type of rule operation

@@ -1,4 +1,4 @@
-module github.com/free5gc/go-upf
+module github.com/f0lkert/go-upf
 
 go 1.25.5
 

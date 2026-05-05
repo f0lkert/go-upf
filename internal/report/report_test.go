@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/go-upf/internal/report"
+	"github.com/f0lkert/go-upf/internal/report"
 )
 
 func TestApplyAction0(t *testing.T) {

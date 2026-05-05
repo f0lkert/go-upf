@@ -8,9 +8,9 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/free5gc/go-upf/internal/logger"
-	upfapp "github.com/free5gc/go-upf/pkg/app"
-	"github.com/free5gc/go-upf/pkg/factory"
+	"github.com/f0lkert/go-upf/internal/logger"
+	upfapp "github.com/f0lkert/go-upf/pkg/app"
+	"github.com/f0lkert/go-upf/pkg/factory"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/version"
 )

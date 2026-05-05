@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/go-upf/internal/forwarder"
-	"github.com/free5gc/go-upf/internal/logger"
+	"github.com/f0lkert/go-upf/internal/forwarder"
+	"github.com/f0lkert/go-upf/internal/logger"
 	logger_util "github.com/free5gc/util/logger"
 )
 

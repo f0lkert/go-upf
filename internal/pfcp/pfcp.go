@@ -12,10 +12,10 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/wmnsk/go-pfcp/message"
 
-	"github.com/free5gc/go-upf/internal/forwarder"
-	"github.com/free5gc/go-upf/internal/logger"
-	"github.com/free5gc/go-upf/internal/report"
-	"github.com/free5gc/go-upf/pkg/factory"
+	"github.com/f0lkert/go-upf/internal/forwarder"
+	"github.com/f0lkert/go-upf/internal/logger"
+	"github.com/f0lkert/go-upf/internal/report"
+	"github.com/f0lkert/go-upf/pkg/factory"
 	logger_util "github.com/free5gc/util/logger"
 )
 

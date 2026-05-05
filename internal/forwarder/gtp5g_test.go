@@ -14,8 +14,8 @@ import (
 	"github.com/wmnsk/go-pfcp/ie"
 
 	"github.com/free5gc/go-gtp5gnl"
-	"github.com/free5gc/go-upf/internal/report"
-	"github.com/free5gc/go-upf/pkg/factory"
+	"github.com/f0lkert/go-upf/internal/report"
+	"github.com/f0lkert/go-upf/pkg/factory"
 )
 
 func Test_convertSlice(t *testing.T) {

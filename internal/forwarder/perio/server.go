@@ -6,8 +6,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/free5gc/go-upf/internal/logger"
-	"github.com/free5gc/go-upf/internal/report"
+	"github.com/f0lkert/go-upf/internal/logger"
+	"github.com/f0lkert/go-upf/internal/report"
 )
 
 const (
